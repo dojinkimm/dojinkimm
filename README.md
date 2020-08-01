@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
+[![Website](https://img.shields.io/badge/Website-devjin.blog.com-blue?style=flat-square&logo=google-chrome)](https://devjin-blog.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dojin%20Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dojin-henry-kim-64080a158/)
+[![Email](https://img.shields.io/badge/Email-dojinkim119@gmail.com-blue?style=flat-square&logo=gmail)](mailto:dojinkimm119@gmail.com)
 
-<!--
-**dojinkimm/dojinkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+- 🌱 &nbsp; I’m currently learning golang, docker, k8s
+- 💼 &nbsp; I'm currently working as Server Developer at @Rainist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Stack
+
+- 💻 &nbsp; Python | Golang | Dart | Typescript  | HTML | CSS 
+- 🛠 &nbsp; gRPC | Flutter | ReactJS | Express | OpenCV
+- 🛢 &nbsp; MySQL | MongoDB | Firebase
+
+<br/>
+
+[![dojinkimm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dojinkimm&show_icons=true)](https://github.com/dojinkimm)
