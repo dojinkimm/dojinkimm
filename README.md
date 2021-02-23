@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 About Me
 
 - 🌱 &nbsp; I’m currently learning golang, docker, k8s
-- 💼 &nbsp; I'm currently working as Server Developer at @Rainist
+- 💼 &nbsp; I'm currently working as Server Engineer at @banksalad
 
 ### ⚙️ Tech Stack
 
