@@ -6,14 +6,13 @@
 ### 👨🏻‍💻 About Me
 
 - 🌱 &nbsp; I’m currently learning golang, docker, k8s, airflow, spark
-- 💼 &nbsp; I'm currently working as Server Engineer at @banksalad
+- 💼 &nbsp; I'm currently working as Software Engineer at @banksalad
+- 📄 &nbsp; [Resume](https://www.notion.so/henrystudy/Henry-Kim-s-Resume-af138c53c97c4e4c91c5177d01e03e7b)
 
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Golang | Dart | Typescript  | HTML | CSS 
-- 🛠 &nbsp; gRPC | Flutter | ReactJS | Express | OpenCV
+- 💻 &nbsp; Python | Golang | Dart | Typescript 
+- ⚙️ &nbsp; AWS | gRPC | Flutter | ReactJS | Airflow | Spark
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 
 <br/>
-
-[![dojinkimm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dojinkimm&show_icons=true)](https://github.com/dojinkimm)
