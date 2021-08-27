@@ -11,8 +11,8 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Golang | Dart | Typescript 
-- ⚙️ &nbsp; AWS | gRPC | Flutter | ReactJS | Airflow | Spark
-- 🛢 &nbsp; MySQL | MongoDB | Firebase
+- 💻 &nbsp; Python | Golang | Dart | Typescript
+- ⚙️ &nbsp; AWS | GCP | gRPC | Airflow | Spark | Debezium | Kubernetes | Flutter | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB | Firebase | Kafka
 
 <br/>
