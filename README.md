@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 About Me
 
 - 🌱 &nbsp; I’m currently learning golang, docker, k8s, airflow, spark
-- 💼 &nbsp; I'm currently working as Software Engineer at @banksalad
+- 💼 &nbsp; I'm currently working as Software Engineer at @daangn
 - 📄 &nbsp; [Resume](https://www.notion.so/henrystudy/Henry-Kim-s-Resume-af138c53c97c4e4c91c5177d01e03e7b)
 
 ### 🛠 Tech Stack
